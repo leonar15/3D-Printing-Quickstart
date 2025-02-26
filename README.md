@@ -2,11 +2,11 @@
 A resource for the novice getting started with 3D filament printers
 
 ## Things to keep in mind
-- 3D printers are **not** like 2D paper printers. There's a lot more that can go wrong. Embrace tinkering.
-- Take it easy! It's a cool technology with incredible potential. Don't get frustrated if things aren't immediately perfect.
+- **Embrace tinkering:** 3D printers are **not** like 2D paper printers. There's a lot more that can go wrong. 
+- **Embrace imperfection:** Most prints will have small issues (stringing, small blobs, etc). Cleaning them up is part of the process
+- **Test prints:** Make small test prints before tackling largers projects. Learn & adjust from all prints
 - **Don't change too many parameters at once.**
-- Make small test prints before tackling largers projects. Learn & adjust from all prints
-- Embrace imperfection. Most prints will have small issues (stringing, small blobs, etc) and it's part of 
+- **Take it easy!** It's a cool technology with incredible potential. Don't get frustrated if things aren't immediately perfect.
 
 ## Setting up & maintaining your printer
 - Make sure bearings are not too loose or tight
