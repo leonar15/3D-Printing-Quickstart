@@ -27,12 +27,19 @@ A resource for the novice getting started with 3D filament printers
 
 ## Filament types
 ### PLA
-- relatively easy to print
-- Settings: 60C print bed temp, 200-220C nozzle
+- Relatively easy to print
+- Settings
+  - bed temp: **60C**
+  - nozzle temp: **200-220C**
+  - feedrate: **60 mm/sec**
 
-### PLU
-
-
+### TPU
+- Very flexible material. Probably want to use a direct drive filament feed instead of "Bowden type"
+- Settings
+  - bed temp: **heater off**
+  - nozzle temp: **210-230C**
+  - feedrate: **30 mm/sec** slow it down!
+  - retraction: **0**
 
 
 
