@@ -45,10 +45,14 @@ A resource for the novice getting started with 3D filament printers
 
 # Resources
 ## Test Print Tools
-Test prints are generally small, quick prints that allow you test parameter changes (temperature, retraction speed, etc) within the same print.
-- [Generate Test Prints](https://teachingtechyt.github.io/calibration.html) for temperature, retraction, and other settings
-- **Temperature Tower** 
-- **Benchy**
+Test prints are generally small prints that let you to quickly test parameter changes (temperature, retraction speed, etc) within the same print.
+
+| Test  | Image |  Notes |
+| :---- | ----- | :----- |
+| **Temperature Tower**   | TBD | https://teachingtechyt.github.io/calibration.html#temp|
+| **Retraction Tower**    | TBD | https://teachingtechyt.github.io/calibration.html#retraction|
+| **Benchy**              | TBD | For testing the overall performance of various printers settings. Link TBD|
+
 
 ## 3D Models and editors
 You'll need 3D models to print. Often this is done by taking a .STL file and creating slicing code in a slicer software. Start by downloading existing models. Then use one of these various editors to make your own designs.
@@ -56,15 +60,14 @@ You'll need 3D models to print. Often this is done by taking a .STL file and cre
 ### 3D Models
 - **[Thangs](https://thangs.com/):**
 - **[Printables](https://www.printables.com/model):**
-- 
+- **[Thingiverse](https://www.thingiverse.com/):**
 
 ### 3D Editors
 - **[TinkerCad](https://www.tinkercad.com/):** Free, beginner-friendly, in-browser 3D modeling tool. This software allows you to build your own models and export .STL files for slicoing & printing.
 
 
-
 ## Slicer software
 Slicers are used to turn a 3D model into machine code the printer understands
-- **[PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)**: Free software from Prusa Labs that supports printer from multiple manufacturers. 
-- **[Bambu Studio](https://bambulab.com/en-us/download/studio):**
+- **[PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)**: Free software from Prusa Labs that supports 3D printers from various manufacturers. 
+- **[Bambu Studio](https://bambulab.com/en-us/download/studio):** 
 - **[Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/):**
