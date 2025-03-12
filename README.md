@@ -49,9 +49,9 @@ Test prints are generally small prints that let you to quickly test parameter ch
 
 | Test  | Image |  Notes |
 | :---- | ----- | :----- |
-| **Temperature Tower**   | TBD | https://teachingtechyt.github.io/calibration.html#temp|
-| **Retraction Tower**    | TBD | https://teachingtechyt.github.io/calibration.html#retraction|
-| **Benchy**              | TBD | For testing the overall performance of various printers settings. Link TBD|
+| **Temperature Tower**   | ![Temperature Tower Example](/images/example-temperature-tower.jpg "Temperature Tower") | https://teachingtechyt.github.io/calibration.html#temp|
+| **Retraction Tower**    | ![Retraction Tower Example](/images/example-retraction-tower.jpg "Retraction Tower") | https://teachingtechyt.github.io/calibration.html#retraction|
+| **Benchy**              | ![Benchy Example](/images/example-benchy.jpg "Benchy") | For testing the overall performance of various printers settings. Link TBD|
 
 
 ## 3D Models and editors
